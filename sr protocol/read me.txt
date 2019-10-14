@@ -1,0 +1,15 @@
+Q5) SR protocol
+Team 16
+Bhavesh Bhansali 1ks17cs016
+Aritra Ray 1ks17cs012
+Darshan S 1ks17cs020
+couldnt complete the question
+the program doesnt give the required results
+reference
+geeksforgeeks
+stackoverflow
+server program is executed using 
+python server.py <I> <K>
+it uses 200016 and 20020 port number for reciveing and send respectivly
+python client-udp.py <W> <S> <N> <T>
+it uses 200016 and 20020 port number for sending and receiving respectivly
